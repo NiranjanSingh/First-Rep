@@ -1,1 +1,3 @@
-hi
+<?
+echo "Namaste I am Niranjan"
+?>
