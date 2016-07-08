@@ -1,3 +1,3 @@
 <?
-echo "Namaste I am Niranjan-- comit 2 -- staged commit 3"
+echo "Namaste I am Niranjan. Change 1"
 ?>
